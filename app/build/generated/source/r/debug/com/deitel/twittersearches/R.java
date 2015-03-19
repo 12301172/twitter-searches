@@ -41,7 +41,7 @@ public final class R {
         public static final int confirmMessage=0x7f060003;
         public static final int delete=0x7f060004;
         public static final int missingMessage=0x7f060005;
-        public static final int queryPrompt=0x7f060006;
+        public static final int queryURL=0x7f060006;
         public static final int saveDescription=0x7f060007;
         public static final int searchURL=0x7f060008;
         public static final int shareEditDeleteTitle=0x7f060009;
